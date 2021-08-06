@@ -1,6 +1,6 @@
 #4)Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento
 
-print("RESOLUÇÃO DA 14")
+print("RESOLUÇÃO DA 4")
 
 salarioFixo = float (input('Qual é a sua renda mensal fixa?'))
 
