@@ -3,7 +3,7 @@
 
 # Utilizar a biblioteca random.
 
-print('RESOLUÇÃO DA 17')
+print('RESOLUÇÃO DA 7')
 
 import random
 
