@@ -2,7 +2,7 @@
 #de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15
 #por Km rodado
 
-print('RESOLUÇÃO DA 16')
+print('RESOLUÇÃO DA 6')
 
 quilometragem = float(input('Digite a quantidade de km percorrido pelo carro'))
 
